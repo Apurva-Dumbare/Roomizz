@@ -51,7 +51,7 @@ Welcome to the Roomizz Project! This project is a room rental platform with both
 - Start the frontend server:
   ```
   cd ../frontend
-  npm start
+  npm run dev
   ```
 
 ## Usage
