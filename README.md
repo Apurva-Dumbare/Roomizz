@@ -54,6 +54,4 @@ Welcome to the Roomizz Project! This project is a room rental platform with both
   npm run dev
   ```
 
-## Usage
 
-Describe how to use your project here.
